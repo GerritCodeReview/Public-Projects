@@ -34,6 +34,24 @@
       "revId": "7b795b1d872c17292f34103544644b09c5056004",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d2211ade_24c03536",
+        "filename": "project.config",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-06T23:29:26Z",
+      "side": 1,
+      "message": "\u003e what would be a good name? Maybe just \"gerrit-contributors\"?\n\n+1",
+      "parentUuid": "ae20a7c5_f5d2e4fa",
+      "revId": "7b795b1d872c17292f34103544644b09c5056004",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
