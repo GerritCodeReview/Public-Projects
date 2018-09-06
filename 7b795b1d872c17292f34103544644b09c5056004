@@ -16,6 +16,24 @@
       "revId": "7b795b1d872c17292f34103544644b09c5056004",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ae20a7c5_f5d2e4fa",
+        "filename": "project.config",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-09-06T09:17:40Z",
+      "side": 1,
+      "message": "\u003e Are all the maintainers in this group?  It might be safer to explicitly add the \n\u003e maintainer group too.\n\nGood point. Done.\n\n\u003e Also, unrelated to this change, but the \"gerrit-verifiers\" group is no longer\n\u003e being used for its intended purpose.  Shall we replace it with something more\n\u003e appropriately named?\n\n+1, what would be a good name? Maybe just \"gerrit-contributors\"?\nIf we have a name, I can do the rename after this change was submitted.",
+      "parentUuid": "f21b9467_9ce549c4",
+      "revId": "7b795b1d872c17292f34103544644b09c5056004",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
