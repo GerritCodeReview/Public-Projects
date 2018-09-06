@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f21b9467_9ce549c4",
+        "filename": "project.config",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-06T09:12:04Z",
+      "side": 1,
+      "message": "Are all the maintainers in this group?  It might be safer to explicitly add the maintainer group too.\n\nAlso, unrelated to this change, but the \"gerrit-verifiers\" group is no longer being used for its intended purpose.  Shall we replace it with something more appropriately named?",
+      "revId": "7b795b1d872c17292f34103544644b09c5056004",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
