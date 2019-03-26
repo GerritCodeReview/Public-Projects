@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "750f7d84_898c6a7b",
+        "filename": "project.config",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-03-26T07:33:01Z",
+      "side": 1,
+      "message": "This is basically reverting [1]. If we want this, I think it would be better to do a proper revert of that change.\n\n[1] https://gerrit-review.googlesource.com/c/Public-Projects/+/195130",
+      "revId": "b8b2711ad5213700e99c3f0a084c69972f6cdf61",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
