@@ -16,6 +16,24 @@
       "revId": "d7724fa56b2922f7248f8f1dd021233ef5c45b94",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2fca60de_469632e1",
+        "filename": "project.config",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1086378
+      },
+      "writtenOn": "2019-07-18T09:56:04Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "6f4a27bc_1675aa21",
+      "revId": "d7724fa56b2922f7248f8f1dd021233ef5c45b94",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
