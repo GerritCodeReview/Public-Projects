@@ -2,6 +2,7 @@
 #
 2edc94188dd0f1e72e027eb20a2fc3006e7d39ba                      	gerrit-ci
 b49f61711e6c0148f9f4d90702015bb894289be9                      	gerrit-trusted-contributors
+b97887aaa85f9b33a4252e189de8c250dad58037                      	luci_scoped_account
 e076e6ae9e389d476b0dcf1427cca2dcda4f77c6                      	Diffy Cuckoo
 global:Anonymous-Users                                        	Anonymous Users
 global:Project-Owners                                         	Project Owners
