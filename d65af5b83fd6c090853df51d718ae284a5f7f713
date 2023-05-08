@@ -50,6 +50,41 @@
       "message": "Comment removed by: Edwin Kempin; Reason: spam",
       "revId": "d65af5b83fd6c090853df51d718ae284a5f7f713",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4bfeabbb_c5067938",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1160165
+      },
+      "writtenOn": "2023-05-08T16:57:12Z",
+      "side": 1,
+      "message": "Comment removed by: Edwin Kempin; Reason: spam",
+      "revId": "d65af5b83fd6c090853df51d718ae284a5f7f713",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b06d5dac_83fc9e35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1160165
+      },
+      "writtenOn": "2023-05-08T16:57:12Z",
+      "side": 1,
+      "message": "Comment removed by: Edwin Kempin; Reason: spam",
+      "parentUuid": "145f456c_7262a746",
+      "revId": "d65af5b83fd6c090853df51d718ae284a5f7f713",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ],
   "submitRequirementResults": [
