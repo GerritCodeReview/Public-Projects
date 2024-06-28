@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b5e902b_65ce4828",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3514685
+      },
+      "writtenOn": "2024-06-28T18:59:44Z",
+      "side": 1,
+      "message": "git fetch https://gerrit.googlesource.com/Public-Projects refs/changes/37/396137/2 \u0026\u0026 git checkout FETCH_HEAD",
+      "revId": "4b605a3e2d118606d9ffbe9fd9dac269e5c9fd85",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
