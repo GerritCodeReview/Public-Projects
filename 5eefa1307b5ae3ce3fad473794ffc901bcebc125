@@ -33,6 +33,24 @@
       "message": "Looks like I can\u0027t rebase this due to having neither rebase nor submit permission.",
       "revId": "5eefa1307b5ae3ce3fad473794ffc901bcebc125",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8f40fdb_7585cade",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2025-01-08T12:06:00Z",
+      "side": 1,
+      "message": "I resolved the conflict locally and then accidentally pushed this directly, rather than uploading a new patch set, so that this change got auto-closed.",
+      "parentUuid": "ffa2bf57_4a8a554e",
+      "revId": "5eefa1307b5ae3ce3fad473794ffc901bcebc125",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
